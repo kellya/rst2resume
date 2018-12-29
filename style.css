@@ -1,6 +1,4 @@
-/* Base on / derived from:  HTML5 ✰ Boilerplate */
-
-html, body, div, span, object, iframe,
+stml, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
 small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
@@ -192,10 +190,22 @@ dd {
 
 }
 .contactlist li {
-    	list-style: none;
+	list-style: none;
 	margin-left: 0;
 	padding-left: 0em;
 	text-indent:  0em;
+}
+
+.jobheading {
+	position: relative;
+	font-weight: bold;
+	text-decoration: underline dotted;
+	margin-bottom: 0em;
+}
+
+.jobtext {
+	position: relative;
+	font-weight: normal;
 }
 
 li strong {

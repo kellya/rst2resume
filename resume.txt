@@ -1,10 +1,9 @@
-
 ----------
 summary
 ----------
 .. class:: myname
 
-Gregg Lind
+Alex Kelly
 
 .. class:: tagline
 
