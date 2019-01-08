@@ -67,7 +67,7 @@ a:link { -webkit-tap-highlight-color: #FF5E99; }
 button {  width: auto; overflow: visible; }
 .ie7 img { -ms-interpolation-mode: bicubic; }
 
-body, select, input, textarea { color: #444; }
+body, select, input, textarea { color: blue; }
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 a, a:active, a:visited { color: #607890; }
 a:hover { color: #036; }
@@ -97,13 +97,13 @@ body {
 }
 
 h1 {
-    color: #555;
+    color: blue;
 }
 
 .section {
 
     /*border: 1px solid blue; */
-    border-top: 1px solid rgb(230,145,56);
+    border-top: 1px solid blue;
     padding:  1em 0cm  0cm 5em;
     margin: 0 0 1em 0;
     position: relative; /* need this to get the h1 to be moveable */
@@ -135,7 +135,7 @@ h1 {
     left:0;
     top:0;
     font-family:  serif;
-    color:  rgb(230,145,56);
+    color:  blue;
 }
 
 ul {
@@ -167,16 +167,16 @@ dd {
 
 
 .summary {
-    border: 0px solid #DDD;
+    border: 0px solid blue;
     padding: 1em;
     margin: 1em 2em 1em 0em;
-    background-color: #FEE ;
+    background-color: lightblue;
 }
 
 .myname {
     position: relative;
     font-weight: bold;
-    color:  rgb(230,145,56);
+    color:  blue;
     font-size: 16px;
 }
 
@@ -215,7 +215,7 @@ li strong {
 }
 
 .shortcontact {
-    text-align: right;
+    text-align: center;
     color: inherit;
     margin-right: 2em;
 
