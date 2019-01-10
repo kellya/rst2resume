@@ -1,4 +1,0 @@
-#!/bin/bash
-# this script is in the Public Domain
-
-rst2html.py --link-stylesheet --no-doc-title --stylesheet style.css resume.rst > resume.html
