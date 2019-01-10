@@ -1,6 +1,6 @@
-OUTDIR='./output/'
+OUTDIR='./output'
 OUTFILE='resume'
-STYLESHEET='style.css'
+STYLESHEET='../style.css'
 
 all : html
 
